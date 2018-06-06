@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace BookTrade.Models
+namespace BookTradeA.Models
 {
     public class IndexViewModel
     {

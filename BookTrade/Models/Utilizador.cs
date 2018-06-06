@@ -1,4 +1,4 @@
-namespace BookTrade.Models
+namespace BookTradeA.Models
 {
     using System;
     using System.Collections.Generic;
@@ -28,7 +28,7 @@ namespace BookTrade.Models
 
         [Required]
         [StringLength(20)]
-        public string email { get; set; }
+        public string Email { get; set; }
 
 
 

@@ -1,4 +1,4 @@
-namespace BookTrade.Models
+namespace BookTradeA.Models
 {
     using System;
     using System.Collections.Generic;

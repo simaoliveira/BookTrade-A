@@ -8,9 +8,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using BookTrade.Models;
+using BookTradeA.Models;
 
-namespace BookTrade.Controllers
+namespace BookTradeA.Controllers
 {
     [Authorize]
     public class AccountController : Controller
